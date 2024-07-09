@@ -2,7 +2,7 @@ class Main {
 
   public static void main(String[] args) {
     
-    int first = 10;
+    int first = 19;
     int second = 60;
 
     // add two numbers
